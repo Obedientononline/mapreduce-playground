@@ -1,6 +1,6 @@
 # mapreduce-playground
 
-A collection of Hadoop MapReduce projects built hands-on — covering Java MapReduce, Python Streaming, Apache Pig, and Hive analytics on real datasets.
+A collection of Hadoop MapReduce projects built hands-on covering Java MapReduce, Python Streaming, Apache Pig, and Hive analytics on real datasets.
 
 **Stack:** Hadoop 3.4.1 · HDFS · MapReduce · Python 3 · Apache Pig · Apache Hive
 
