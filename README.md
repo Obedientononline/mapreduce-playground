@@ -28,7 +28,7 @@ All projects run on a single-node Hadoop cluster.
 ```bash
 start-dfs.sh
 start-yarn.sh
-jps   # verify NameNode, DataNode, ResourceManager, NodeManager are up
+jps   
 ```
 
 Each folder has its own README with exact run commands.
