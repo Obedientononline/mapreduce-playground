@@ -1,4 +1,4 @@
-# NYC Taxi Trip Zone Enrichment — Hadoop Distributed Cache
+# NYC Taxi Trip Zone Enrichment - Hadoop Distributed Cache
 
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-3.4.1-66CCFF) ![Java](https://img.shields.io/badge/Java-17-orange) ![Join](https://img.shields.io/badge/Mapper--Side%20Join-Distributed%20Cache-blueviolet)
 
