@@ -1,4 +1,4 @@
-# Sales Category Revenue Analytics — Hadoop Python Streaming
+# Sales Category Revenue Analytics Hadoop Python Streaming
 
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-3.4.1-66CCFF) ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Streaming](https://img.shields.io/badge/Hadoop-Streaming-yellow)
 
