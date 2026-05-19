@@ -1,4 +1,4 @@
-# IPL Cricket Data Analysis — Apache Pig
+# IPL Cricket Data Analysis - Apache Pig
 
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-3.4.1-66CCFF) ![Pig](https://img.shields.io/badge/Apache%20Pig-0.17-lightgrey) ![Dataset](https://img.shields.io/badge/IPL-16%20Seasons-orange)
 
