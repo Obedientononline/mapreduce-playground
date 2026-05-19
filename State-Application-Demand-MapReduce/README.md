@@ -1,4 +1,4 @@
-# State-wise Application Demand Analysis — Hadoop MapReduce
+# State-wise Application Demand Analysis Hadoop MapReduce
 
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-3.4.1-66CCFF) ![Java](https://img.shields.io/badge/Java-17-orange) ![MapReduce](https://img.shields.io/badge/MapReduce-Distributed-green)
 
