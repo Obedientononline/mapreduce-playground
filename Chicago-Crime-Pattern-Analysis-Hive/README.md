@@ -1,4 +1,4 @@
-# Chicago Crime Pattern Analysis — Apache Hive
+# Chicago Crime Pattern Analysis - Apache Hive
 
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-3.4.1-66CCFF) ![Hive](https://img.shields.io/badge/Apache%20Hive-4.0.1-yellow) ![Dataset](https://img.shields.io/badge/Records-1.4M-red)
 
