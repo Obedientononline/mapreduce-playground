@@ -1,4 +1,4 @@
-# 🌐 NASA Web Server Log Analysis — Python Streaming + Hive
+# 🌐 NASA Web Server Log Analysis - Python Streaming + Hive
 
 End-to-end pipeline on 3,461,612 HTTP requests logged by NASA Kennedy Space Center's web server in July–August 1995. Raw unstructured log lines go in. Structured traffic intelligence and bot detection reports come out.
 
