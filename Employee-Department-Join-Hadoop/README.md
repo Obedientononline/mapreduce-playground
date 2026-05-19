@@ -1,4 +1,4 @@
-# Employee-Department Data Integration — Hadoop Reducer-Side Join
+# Employee-Department Data Integration - Hadoop Reducer-Side Join
 
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-3.4.1-66CCFF) ![Java](https://img.shields.io/badge/Java-17-orange) ![Join](https://img.shields.io/badge/Reducer--Side%20Join-MapReduce-blueviolet)
 
